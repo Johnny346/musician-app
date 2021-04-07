@@ -23,6 +23,9 @@ export default class Navbar extends Component {
                 <a href="/login" className="button is-light">
                   Log in
                 </a>
+                <a href="/login" className="button is-light">
+                  test
+                </a>
               </div>
             </div>
           </div>
